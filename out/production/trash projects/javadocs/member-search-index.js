@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Advance_Java_2","c":"Method_Tags","l":"add(int, int)","u":"add(int,int)"},{"p":"Advance_Java_2","c":"Method_Tags","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"Advance_Java_2","c":"Method_Tags","l":"Method_Tags()","u":"%3Cinit%3E()"}];updateSearchResults();
