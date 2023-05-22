@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Advance_Java_2","l":"Method_Tags"}];updateSearchResults();
